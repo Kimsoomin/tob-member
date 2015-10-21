@@ -5,5 +5,6 @@ public class ArticleVO {
 		System.out.println("변화됨");
 		System.out.println("강사 참여");
 		System.out.println("마스터 답장");
+		System.out.println("혜숙참여");
 	}
 }
