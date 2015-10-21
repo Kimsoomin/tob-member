@@ -16,5 +16,6 @@ public class ArticleVO {
 		System.out.println("연우 참여");
 		System.out.println("연우 감사");
 		System.out.println("dddd");
+		System.out.println("연우 test");
 	}
 }
