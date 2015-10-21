@@ -10,5 +10,6 @@ public class ArticleVO {
 		System.out.println("형동참여");
 		System.out.println("형동 땡큐");
 		System.out.println("정민 참여");
+		System.out.println("정민 땡큐");
 	}
 }
