@@ -8,5 +8,7 @@ public class ArticleVO {
 		System.out.println("혜숙참여");
 		System.out.println("혜숙 땡큐 !! : )");
 		System.out.println("형동참여");
+		System.out.println("형동 땡큐");
+		
 	}
 }
